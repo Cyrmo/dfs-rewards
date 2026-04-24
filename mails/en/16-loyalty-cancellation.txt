@@ -1,0 +1,9 @@
+Hi {customer_firstname} {customer_lastname},
+
+Your order {order} has been canceled.
+As a result, the {customer_reward} loyalty reward has also been canceled.
+
+
+
+{shop_name}
+{shop_url}

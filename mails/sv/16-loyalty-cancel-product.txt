@@ -1,0 +1,9 @@
+Hi {customer_firstname} {customer_lastname},
+
+Your order {order} has been modified.
+As a result, the {old_customer_reward} loyalty reward has been changed to {new_customer_reward}.
+
+
+
+{shop_name}
+{shop_url}

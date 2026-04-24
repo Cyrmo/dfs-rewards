@@ -1,0 +1,7 @@
+Olá {firstname} {lastname},
+
+Não esqueça suas recompensas
+Estamos Lembrando que você tem {rewards} em {link_rewards} sua conta de recompensas que você pode transforma-lo em um voucher para suas próximas compras.
+
+{shop_name}
+

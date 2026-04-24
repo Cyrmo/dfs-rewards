@@ -1,0 +1,9 @@
+Bonjour,
+
+J'aimerais disposer de la nouvelle version du module All-in-one Rewards.
+Version actuelle : {module_version}
+Version de Prestashop : {ps_version}
+Numéro de commande : {registration}
+
+{shop_name}
+{shop_url}

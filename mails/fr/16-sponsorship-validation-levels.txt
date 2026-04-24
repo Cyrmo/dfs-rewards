@@ -1,0 +1,9 @@
+Félicitations {sponsor_firstname} {sponsor_lastname} !
+
+La commande d'un de vos filleuls indirects a été validée.
+Votre récompense de {sponsor_reward} est maintenant disponible dans votre compte récompenses.
+
+
+
+{shop_name}
+{shop_url}

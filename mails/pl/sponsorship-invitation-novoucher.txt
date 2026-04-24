@@ -1,0 +1,14 @@
+Hello {sponsored_firstname} {sponsored_lastname},
+
+Your friend {firstname} {lastname} wants to sponsor you on {shop_url}.
+
+His message :
+{message}
+
+It's very easy to sign up. Just click on the following link:
+{link}
+
+
+
+{shop_name}
+{shop_url}

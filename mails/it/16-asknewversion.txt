@@ -1,0 +1,9 @@
+Ciao,
+
+Verrei la nuova versione del modulo ricompense  All-in-one.
+Versione modulo : {module_version}
+Versione Prestashop : {ps_version}
+Ordine di riferimento : {registration}
+
+{shop_name}
+{shop_url}

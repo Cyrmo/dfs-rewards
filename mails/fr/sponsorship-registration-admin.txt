@@ -1,0 +1,9 @@
+Bonjour,
+
+{sponsored_firstname} {sponsored_lastname} ({sponsored_email}) vient de s'inscrire sur {shop_name}.
+Son parrain est {sponsor_firstname} {sponsor_lastname} ({sponsor_email}), il gagne {sponsor_reward}.
+
+
+
+{shop_name}
+{shop_url}

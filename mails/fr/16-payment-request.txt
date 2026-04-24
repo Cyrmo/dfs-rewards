@@ -1,0 +1,12 @@
+Bonjour,
+
+{customer} vient de faire une demande de paiement de ses récompenses pour un montant de {value}.
+Détails :
+{text}
+
+Une fois le paiement effectué, veuillez consulter le profil du client dans votre back-office et marquer la demande comme traitée.
+
+
+
+{shop_name}
+{shop_url}

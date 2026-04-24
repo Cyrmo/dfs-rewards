@@ -1,0 +1,8 @@
+Parabéns {sponsor_firstname} {sponsor_lastname}.
+
+O pedido de seu amigo patrocinado indireto foi validado.
+O pedido de seu amigo patrocinado indireto foi validado.
+Sua recompensa de {sponsor_reward} já está disponível em sua conta de recompensas em {reward_unlock_date}.
+
+{shop_name}
+

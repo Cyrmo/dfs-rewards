@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>allinone_rewards</name>
+	<displayName><![CDATA[R&eacute;compenses : Fid&eacute;lit&eacute;, Parrainage multi niveaux, Affiliation, Facebook...]]></displayName>
+	<version><![CDATA[4.1.7]]></version>
+	<description><![CDATA[Ce module &quot;tout en un&quot; permet &agrave; vos clients de gagner des r&eacute;compenses tout en d&eacute;veloppant le r&eacute;f&eacute;rencement et la notori&eacute;t&eacute; de votre boutique : programme de fid&eacute;lit&eacute;, programme de parrainage ultra complet (multi niveaux, autopromotionnel),... En plus les r&eacute;compenses acquises sont toutes regroup&eacute;es dans un compte unique ﻿!]]></description>
+	<author><![CDATA[Prestaplugins]]></author>
+	<tab><![CDATA[advertising_marketing]]></tab>
+	<confirmUninstall><![CDATA[Voulez-vous vraiment supprimer ce module et son paramétrage ? Les récompenses et parrainages ne seront pas supprimés.]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

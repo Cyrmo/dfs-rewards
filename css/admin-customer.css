@@ -1,0 +1,70 @@
+/* CSS for autocomplete */
+.ui-autocomplete, .ac_results {
+	width: 570px;
+	max-height: 160px;
+	overflow-y: auto;
+	overflow-x: hidden;
+	padding: 5px;
+	border-color: #DDDDDD;
+}
+.ui-autocomplete .ui-state-hover, .ac_over {
+	font-weight: normal;
+	border: none;
+	cursor: pointer;
+	background-color: #3399FF;
+}
+.ac_even, .ac_odd {
+	background-color: transparent;
+	color: #555555;
+}
+.ac_even:hover, .ac_odd:hover {
+	background-color: #3399FF;
+	color: #FFFFFF;
+}
+.ui-autocomplete span, .ac_results span {
+	display: inline-block;
+	margin-right: 10px;
+}
+.ui-autocomplete .ui-menu-item a, .ac_results li {
+	padding: 0px;
+}
+div.autocomplete_header {
+	border-bottom: dashed 1px #BBBBBB;
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+span.autocomplete_id_customer {
+	width: 30px;
+	text-align: right;
+}
+span.autocomplete_firstname {
+	width: 160px;
+}
+span.autocomplete_lastname {
+	width: 160px;
+}
+span.autocomplete_email {
+	width: 160px;
+}
+
+.borderright {
+	border-right: solid 1px #a0d0eb !important;
+}
+
+#admincustomer h2, #admincustomer_sponsorship h2 {
+	padding-top: 30px;
+}
+
+#admincustomer h3:not(.card-header), #admincustomer_sponsorship h3:not(.card-header) {
+	padding-top: 20px;
+}
+
+#admincustomer div.card-header, #admincustomer_sponsorship div.card-header {
+	background-color: transparent !important;
+	margin-bottom: 20px;
+	padding-left: 0;
+}
+
+#admincustomer .btn, #admincustomer_sponsorship .btn {
+	margin-top: -3px;
+}

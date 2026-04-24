@@ -1,0 +1,9 @@
+Hello,
+
+I would like to get the new version of the All-in-one Rewards module.
+Module version : {module_version}
+Prestashop version : {ps_version}
+Order reference : {registration}
+
+{shop_name}
+{shop_url}

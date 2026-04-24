@@ -1,0 +1,9 @@
+Felicidades {sponsor_firstname} {sponsor_lastname},
+
+Su ahijado(a) {sponsored_firstname} {sponsored_lastname} acaba de registrarse en {shop_url}!
+Con este apadrinamiento gana {sponsor_reward}.
+
+
+
+{shop_name}
+{shop_url}

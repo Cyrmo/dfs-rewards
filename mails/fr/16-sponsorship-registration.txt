@@ -1,0 +1,8 @@
+Félicitations {sponsor_firstname} {sponsor_lastname} !
+
+Votre filleul(e) {sponsored_firstname} {sponsored_lastname} vient de s'inscrire sur {shop_url} !
+
+
+
+{shop_name}
+{shop_url}

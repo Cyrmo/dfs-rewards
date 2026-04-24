@@ -1,0 +1,8 @@
+Olá {sponsor_firstname} {sponsor_lastname},
+
+O pedido de seus amigos patrocinados indiretamente foi modificado.
+O pedido de seu amigo patrocinado indiretamente foi modificado.
+Como resultado, sua recompensa de {old_sponsor_reward} também foi alterada para {new_sponsor_reward}
+
+{shop_name}
+

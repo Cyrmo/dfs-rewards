@@ -1,0 +1,9 @@
+Congratulations {customer_firstname} {customer_lastname} !
+
+Your order {order} has been validated.
+The {customer_reward} loyalty reward will be available in your rewards account from {reward_unlock_date}.
+
+
+
+{shop_name}
+{shop_url}

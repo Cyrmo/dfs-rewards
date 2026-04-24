@@ -1,0 +1,9 @@
+Congratulations {sponsor_firstname} {sponsor_lastname} !
+
+Your sponsored friend, {sponsored_firstname} {sponsored_lastname} has placed an order on {shop_url} !
+To thank you, when his order will be validated you will receive {sponsor_reward} in your rewards account.
+
+
+
+{shop_name}
+{shop_url}

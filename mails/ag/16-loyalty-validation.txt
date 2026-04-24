@@ -1,0 +1,9 @@
+Felicidades {customer_firstname} {customer_lastname} !
+
+Su pedido {order} ha sido validado.
+El premio de fidelización de {customer_reward} está disponible en su cuenta de fidelización.
+
+
+
+{shop_name}
+{shop_url}

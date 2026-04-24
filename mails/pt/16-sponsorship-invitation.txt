@@ -1,0 +1,13 @@
+Olá {sponsored_firstname} {sponsored_lastname},
+
+Seu amigo {firstname} {lastname} quer que você se torne um patrocinador em {shop_name}
+
+Seja  um patrocinador e ganhe {nb_discount} em vale(s) de desconto.
+Detalhes : {discount}
+Sua mensagem:
+{message}
+
+É muito fácil se inscrever. Basta clicar aqui!
+
+{shop_name}
+

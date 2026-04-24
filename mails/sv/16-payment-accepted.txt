@@ -1,0 +1,9 @@
+Hello,
+
+Your payment request worth {value} has been processed.
+You can follow the detail of your rewards in your rewards account.
+
+
+
+{shop_name}
+{shop_url}

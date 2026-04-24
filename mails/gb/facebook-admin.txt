@@ -1,0 +1,9 @@
+Hello,
+
+A visitor has just clicked "{action}" on {shop_name}.
+Customer : {customer}
+
+
+
+{shop_name}
+{shop_url}

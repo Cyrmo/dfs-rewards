@@ -1,0 +1,9 @@
+Olá {customer_firstname} {customer_lastname},
+
+Seu pedido {order} foi modificado.
+Como resultado, o {old_customer_reward} recompensa lealdade foi alterada para {new_customer_reward}.
+
+
+
+{shop_name}
+{shop_url}

@@ -1,0 +1,9 @@
+Félicitations {sponsor_firstname} {sponsor_lastname} !
+
+Un de vos filleuls indirect a effectué un achat sur {shop_url} !
+Lorsque sa commande sera validée, {sponsor_reward} seront crédités sur votre compte récompenses, pour vous remercier.
+
+
+
+{shop_name}
+{shop_url}

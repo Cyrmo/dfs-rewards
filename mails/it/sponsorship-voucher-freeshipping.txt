@@ -1,0 +1,13 @@
+Congratulazioni {firstname} {lastname},
+
+Abbiamo il paicere di inforamrti che {nb_discount} di vucher sono disponibili a tuo nome  riguardo alle tuo sponsorizzazioni. 
+
+Qui trovi il codice del tuo voucher : {voucher_num},  che ti consentiranno di ottenere la spedzione gratuita.
+Devi semplicemente copiare e incollare il codice durante la procedura di pagamento durante il tuo prossimo ordine.
+
+Ti ringraziamo per aver fatto acquisti su {shop_name}.
+
+
+
+{shop_name}
+{shop_url}

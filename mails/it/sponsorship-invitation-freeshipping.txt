@@ -1,0 +1,12 @@
+Ciao,
+
+Il tuo amico  {firstname} {lastname} vuole sponsorizzarti su {shop_url}.
+Da sponsorizzato puoi ottenere {nb_discount} di sconto in voucher per avere la spedizione gratuita!
+
+E' semplice e veloce aderire, clicca sul link sottostate:
+{link}
+
+
+
+{shop_name}
+{shop_url}

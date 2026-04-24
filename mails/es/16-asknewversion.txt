@@ -1,0 +1,9 @@
+Hola
+
+Me gustaría tener la nueva versión del módulo All-in-one Rewards.
+Versión actual : {module_version}
+Versión de Prestashop : {ps_version}
+Pedido : {registration}
+
+{shop_name}
+{shop_url}

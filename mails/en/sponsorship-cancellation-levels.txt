@@ -1,0 +1,9 @@
+Hi {sponsor_firstname} {sponsor_lastname},
+
+An order of your indirect sponsored friends has been canceled.
+As a result, your {sponsor_reward} reward has also been canceled.
+
+
+
+{shop_name}
+{shop_url}

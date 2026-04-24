@@ -1,0 +1,9 @@
+Congratulazioni {customer_firstname} {customer_lastname} !
+
+Il tuo ordine {order} è stato confermato.
+I {customer_reward} di ricompensa saranno disponibili nel tuo account ricompense dal   {reward_unlock_date}.
+
+
+
+{shop_name}
+{shop_url}

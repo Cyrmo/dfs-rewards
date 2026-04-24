@@ -1,0 +1,12 @@
+Ciao,
+
+Un tuo amico {firstname} {lastname} vorrebbe sponsorizzarti in {shop_url}.
+Come sponsorizzato potresti ottenere {nb_discount} di sconto in buoni acquisto
+
+Per aderire clicca al link seguente:
+{link}
+
+
+
+{shop_name}
+{shop_url}

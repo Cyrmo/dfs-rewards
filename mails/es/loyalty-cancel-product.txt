@@ -1,0 +1,8 @@
+Hola {customer_firstname} {customer_lastname},
+
+Su pedido {order} ha sido modificado.
+Por esa razón, el premio de fidelidad que era inicialmente de {old_customer_reward} es ahora de {new_customer_reward}.
+
+
+{shop_name}
+{shop_url}

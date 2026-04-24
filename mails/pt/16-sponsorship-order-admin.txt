@@ -1,0 +1,7 @@
+Novo pedido com patrocínio
+{sponsored_firstname} {sponsored_lastname} ({sponsored_email}) fez um pedido.
+Quando o pedido será validado: 
+{sponsors_html}
+
+{shop_name}
+

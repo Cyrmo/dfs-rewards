@@ -1,0 +1,10 @@
+Ciao,
+
+La tua richiesta di pagamento di {value} è stata eleborata.
+Puoi controllare i dettagli delle tue ricompense nel tuo account.
+
+Cordali saluti,
+
+
+{shop_name}
+{shop_url}

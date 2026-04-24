@@ -1,0 +1,318 @@
+#module-allinone_rewards-rewards #content, #module-allinone_rewards-sponsorship #content {
+	box-shadow: 2px 2px 11px 0 rgba(0,0,0,.1);
+    background: #fff;
+    padding: 1rem;
+    font-size: .875rem;
+    color: #878787;
+}
+
+.form-footer button {
+	display: block;
+	margin: 0 auto;
+}
+
+.rewards table th {
+	text-transform: uppercase;
+}
+
+/***************/
+/* Sponsorship */
+/***************/
+.rewards .block_hidden_only_for_screen {
+	display: none !important;
+}
+
+.rewards {
+	overflow: auto;
+	font-size: .875rem;
+	color: #878787;
+}
+
+.rewards div.sheets {
+	padding: 15px 15px 15px 15px;
+	border: solid 1px #DDDDDD;
+	clear: both;
+}
+
+.rewards .idTabs {
+	display: block;
+}
+
+.rewards .idTabs li {
+	padding-left: 0;
+	text-align: center;
+	padding-right: 1px;
+	margin-right: 0;
+	margin-bottom: -1px;
+}
+
+.rewards .idTabs a {
+	width: 100%;
+	padding: 8px 0;
+	background-color: #f6f6f6;
+	border: solid 1px #DDDDDD;
+	border-radius: 2px 2px 0 0;
+	color: #878787;
+	text-transform: uppercase;
+    display: block;
+}
+
+.rewards .idTabs .selected {
+	background-color: #FFFFFF;
+	background-image: none;
+	border-bottom: 1px solid #ffffff;
+	text-decoration: none;
+}
+
+#sponsorship_text {
+	padding-bottom: 20px;
+}
+
+#sponsorship_form ul {
+	padding-left: 25px !important;
+}
+
+#sponsorship_form li {
+	padding-top: 10px;
+	list-style-type: disc;
+}
+
+#sponsorship_form li img {
+	height: 20px;
+}
+
+.rewards .table-bordered {
+	margin-top: 15px;
+}
+
+#idTab4 div.title {
+	font-weight: bold;
+	text-transform: uppercase;
+	padding-top: 20px;
+}
+
+#idTab4 div.title:first-child {
+	padding-top: 0;
+}
+
+#idTab4 tr.total, #idTab4 td.total {
+	font-weight: bold;
+	background-color: #f6f6f6;
+	color: #acaaa6;
+}
+
+/*********************/
+/* Sponsorship Popup */
+/*********************/
+.sponsorshipPopup {
+	width: auto;
+	max-width: 700px;
+	text-align: left;
+}
+
+/*******************/
+/* Rewards account */
+/*******************/
+.rewards h2 {
+	margin: 50px 0 0 0;
+	font-size: 1rem;
+	text-transform: uppercase;
+}
+
+.rewards input[type=radio] {
+	margin-left: 10px;
+	margin-right: 2px;
+}
+
+.rewards #aior_buttons {
+	text-align: center;
+}
+
+.rewards div#transform, .rewards div#payment, .rewards div#gift_list {
+	padding-top: 20px;
+	padding-right: 4px;
+    text-align: center;
+    display: inline-block;
+}
+
+.rewards div#transform a, .rewards div#payment a, .rewards div#gift_list a {
+    font-size: .800rem;
+}
+
+.rewards #payment_form {
+	margin-top: 20px;
+	text-align: left;
+}
+
+.rewards #payment_form fieldset {
+	padding: 10px;
+	background: none repeat scroll 0 0 #f6f6f6;
+    border: 1px solid rgba(0,0,0,.125);
+    margin: 0;
+}
+
+.rewards #payment_form #payment_txt {
+	margin-bottom: 20px;
+}
+
+.rewards #payment_form p {
+    margin: 0;
+    padding: 0 0 10px;
+}
+.rewards #payment_form p.required {
+    color: #222222;
+}
+
+.rewards #payment_form p.required sup {
+    color: #990000;
+}
+
+.rewards #payment_form p label {
+    display: inline-block;
+    width: 25%;
+    vertical-align: top;
+}
+
+.rewards #payment_form p.textarea textarea {
+    width: 74%;
+    display: inline-block;
+}
+
+.rewards #payment_form label {
+	text-align: left;
+}
+
+.rewards #payment_form .btn {
+	margin: 20px auto 0;
+	display: block;
+	font-size: .800rem;
+}
+
+.rewards #payment_form .invoice {
+    position: relative;
+    background: #ebebeb;
+    height: 2.05rem;
+    line-height: 2.05rem;
+    text-indent: .625rem;
+    display: inline-block;
+    color: #acaaa6;
+    width: 100%;
+}
+
+.rewards #payment_form .file-input {
+    width: 100%;
+    opacity: 0;
+    left: 0;
+    z-index: 1;
+    height: 2.625rem;
+    overflow: hidden;
+    position: absolute;
+    cursor: pointer;
+}
+
+.rewards #payment_form div.invoice .btn {
+	position: absolute;
+	right: 0;
+	top: 0;
+	margin: 0;
+}
+
+.rewards #payment_form .form-control-label {
+	padding-top: .400rem;
+}
+
+/************/
+/* Facebook */
+/************/
+.rewards_facebook_button {
+	margin-top: 10px;
+	text-align: right;
+	clear: both;
+	z-index: 1000;
+}
+nav #_desktop_contact_link {
+	float: left;
+}
+nav .reward_facebook_block {
+	float: right;
+	clear: none;
+	padding-right: 15px;
+	width: auto;
+	margin-top: .9375rem;
+}
+#facebookblock .block_content {
+	padding-top: 3px;
+}
+.reward_facebook_block_button {
+	margin-top: 10px;
+	text-align: center;
+}
+#reward_facebook_cart {
+	padding-bottom: 10px;
+}
+#reward_facebook_cart p, #reward_facebook_cart .reward_facebook_cart_button {
+	display: inline;
+}
+#rewards_facebook_code {
+	font-weight: bold;
+}
+#rewards_facebook_confirm {
+	display: none;
+}
+#rewards_facebook_confirm_content {
+	padding: 1px;
+}
+#reward_facebook_block_column {
+	box-shadow: 2px 2px 11px 0 rgba(0,0,0,.1);
+    background: #fff;
+    padding: 1.5625rem 1.25rem;
+    margin-bottom: 1.5625rem;
+
+}
+#reward_facebook_block_column p {
+	color: #414141;
+}
+
+/***********/
+/* product */
+/***********/
+#product #aior_product_button, #product #loyalty {
+	display: none;
+	margin-top: 1.5rem;
+}
+
+#product #sponsorship_link {
+	margin-top: 1.5rem;
+}
+
+#sponsorship_product {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#product #aior_product_button span {
+	display: none;
+}
+
+.aior_unvisible {
+	display: none !important;
+}
+
+/****************/
+/* product list */
+/****************/
+span#aior_add_to_cart_available_display, span#aior_add_to_cart_available_real {
+	display: none;
+}
+
+/********/
+/* cart */
+/********/
+#cart #reward_loyalty, #cart #reward_facebook_cart {
+	margin-top: 15px;
+	font-size: .875rem;
+}
+
+#cart #reward_loyalty span {
+	font-size: .675rem;
+}

@@ -1,0 +1,9 @@
+Hola {sponsor_firstname} {sponsor_lastname},
+
+El pedido de un@ de sus ahijad@s indirect@s ha sido modificado.
+Por esa razón, su premio que era de {old_sponsor_reward} es ahora de {new_sponsor_reward}.
+
+
+
+{shop_name}
+{shop_url}

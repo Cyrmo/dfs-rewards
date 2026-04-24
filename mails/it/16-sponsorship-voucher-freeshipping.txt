@@ -1,0 +1,13 @@
+Ciao {firstname} {lastname},
+
+Abbiamo il piacere di informarti che {nb_discount} di voucher  è/sono disponibile/i per la tua sponsorizzazione. 
+
+Il tuo codice del voucher è:  {voucher_num}, che ti consente di avere la spedizione gratuita.
+Copia e incolla il codice del voucher durante il tuo prossimo ordine.  
+
+Ti ringraziamo per il tuo acquisto su {shop_name}.
+
+
+
+{shop_name}
+{shop_url}

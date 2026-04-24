@@ -1,0 +1,8 @@
+Ciao {firstname} {lastname},
+
+Ti ricordiamo che hai {rewards} net tuo account delle ricompense che puoi convertire in un voucher per il prossimo acquisto.
+
+
+
+{shop_name}
+{shop_url}

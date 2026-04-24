@@ -1,0 +1,9 @@
+Hola
+
+Un visitor acaba de pinchar "{action}" on {shop_name}.
+Cliente : {customer}
+
+
+
+{shop_name}
+{shop_url}

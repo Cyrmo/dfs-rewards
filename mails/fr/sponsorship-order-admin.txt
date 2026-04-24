@@ -1,0 +1,11 @@
+Bonjour,
+
+{sponsored_firstname} {sponsored_lastname} ({sponsored_email}) vient de passer commande sur {shop_name}.
+
+Lorsque la commande sera validée :
+{sponsors_txt}
+
+
+
+{shop_name}
+{shop_url}

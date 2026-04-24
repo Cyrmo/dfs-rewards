@@ -1,0 +1,9 @@
+Hi {sponsor_firstname} {sponsor_lastname},
+
+An order of your indirect sponsored friends has been modified.
+As a result, your {old_sponsor_reward} reward has been changed to {new_sponsor_reward}.
+
+
+
+{shop_name}
+{shop_url}

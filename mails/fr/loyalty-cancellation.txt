@@ -1,0 +1,9 @@
+Bonjour {customer_firstname} {customer_lastname},
+
+Votre commande {order} a été annulée.
+En conséquence, la récompense fidélité de {customer_reward} est également annulée.
+
+
+
+{shop_name}
+{shop_url}

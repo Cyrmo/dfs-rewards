@@ -1,0 +1,15 @@
+Congratulations {firstname} {lastname},
+
+We are pleased to inform you that {nb_discount} voucher(s) is(are) available in your name regarding your sponsorship.
+
+Here is the code of your voucher : {voucher_num}
+Details : {voucher_details}
+
+Simply copy/paste this code during the payment process for your next order.
+
+Thank you for shopping at {shop_name}.
+
+
+
+{shop_name}
+{shop_url}

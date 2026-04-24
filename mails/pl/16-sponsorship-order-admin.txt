@@ -1,0 +1,11 @@
+Hello,
+
+{sponsored_firstname} {sponsored_lastname} ({sponsored_email}) has placed an order on {shop_name}.
+
+When the order will be validated :
+{sponsors_txt}
+
+
+
+{shop_name}
+{shop_url}

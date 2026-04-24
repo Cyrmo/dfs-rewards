@@ -1,0 +1,1059 @@
+/*******************/
+
+/* Rewards account */
+
+/*******************/
+
+.rewards {
+
+	margin-bottom: 20px;
+
+}
+
+
+
+.rewards input[type=radio], .rewards .radio {
+
+	margin-left: 10px;
+
+	margin-right: 4px;
+
+}
+
+
+
+.rewards #rewards_options div.radio span {
+
+	top: 0;
+
+}
+
+
+
+.rewards #rewards_options label {
+
+	font-weight: normal;
+
+	cursor: pointer;
+
+}
+
+
+
+.rewards #aior_buttons {
+
+	text-align: center;
+
+}
+
+
+
+.rewardsBlock {
+
+	padding-top: 10px;
+
+}
+
+
+
+.rewards h2 {
+
+	margin: 50px 0 0 0;
+
+	font-size: 14px;
+
+	padding-bottom: 10px !important;
+
+	border-bottom: none;
+
+}
+
+
+
+.rewards p {
+
+	margin: 0 0 0.5em 0 !important;
+
+	padding: 0 !important;
+
+	width: 100%;
+
+	border: none;
+
+}
+
+
+
+.rewards table.std {
+
+	border-style: none !important;
+
+	margin-bottom: 20px;
+
+}
+
+
+
+.rewards table.std thead {
+
+	border-collapse: collapse;
+
+	border: solid 1px #BBBBBB !important;
+
+}
+
+
+
+.rewards table.std th {
+
+	font-size: 10px;
+
+    font-weight: bold;
+
+    line-height: 13px;
+
+    height: 13px !important;
+
+    padding: 5px !important;
+
+    text-shadow: none !important;
+
+    background: url("../img/bg_table_th.png") repeat-x scroll 0 0 #999999;
+
+    /*background: url("../../../../../../modules/allinone_rewards/img/bg_table_th.png") repeat-x scroll 0 0 #999999;*/
+
+    color: #FFFFFF;
+
+    text-transform: uppercase;
+
+}
+
+
+
+.rewards table.std td {
+
+	border: 1px solid #E9E9E9 !important;
+
+    font-size: 11px;
+
+    line-height: 13px;
+
+    padding: 5px !important;
+
+}
+
+
+
+.rewards div.pagination {
+
+	padding: 0;
+
+	margin: 0;
+
+}
+
+
+
+.rewards form.pagination {
+
+	display: none;
+
+}
+
+
+
+.rewards div#transform, .rewards div#payment, .rewards div#gift_list {
+
+	padding-top: 20px;
+
+	padding-right: 4px;
+
+    text-align: center;
+
+    display: inline-block;
+
+}
+
+
+
+.rewards div#transform a, .rewards div#payment a, .rewards div#gift_list a {
+
+	background: url("../img/bg_bt.gif") repeat-x scroll 0 0 #F4B61B;
+
+	/*background: url("../../../../../../modules/allinone_rewards/img/bg_bt.gif") repeat-x scroll 0 0 #F4B61B;*/
+
+    border: 1px solid #CC9900;
+
+    border-radius: 3px 3px 3px 3px;
+
+    color: #000000;
+
+    cursor: pointer;
+
+    display: inline-block;
+
+    font-weight: bold;
+
+    padding: 5px 7px;
+
+    position: relative;
+
+    text-decoration: none;
+
+}
+
+
+
+.rewards div#transform a span, .rewards div#payment a span {
+
+	color: red;
+
+}
+
+
+
+.rewards #payment_txt {
+
+    padding-bottom: 10px;
+
+}
+
+
+
+.rewards #payment_form {
+
+	margin-top: 20px;
+
+	text-align: left;
+
+}
+
+
+
+.rewards #payment_form fieldset {
+
+	padding: 10px;
+
+	background: none repeat scroll 0 0 #F8F8F8;
+
+    border: 1px solid #CCCCCC;
+
+    margin: 0;
+
+}
+
+
+
+.rewards #payment_form p {
+
+    margin: 0;
+
+    padding: 0 0 10px;
+
+}
+
+.rewards #payment_form p.required {
+
+    color: #222222;
+
+}
+
+
+
+.rewards #payment_form p.required sup {
+
+    color: #990000;
+
+}
+
+
+
+.rewards #payment_form p label {
+
+    display: inline-block;
+
+    float: left;
+
+    font-size: 12px;
+
+    width: 25%;
+
+    clear: both;
+
+}
+
+
+
+.rewards #payment_form p.textarea textarea {
+
+    border: 1px solid #CCCCCC;
+
+    color: #666666;
+
+    font-size: 12px;
+
+    width: 74%;
+
+}
+
+
+
+.rewards .uploader {
+
+    width: 74%;
+
+}
+
+
+
+.rewards #payment_form label {
+
+	text-align: left;
+
+}
+
+
+
+.rewards #payment_form .button {
+
+	margin: 20px auto 0;
+
+	display: block;
+
+}
+
+
+
+.rewards p.success {
+
+    background: none repeat scroll 0 0 #A5FC9F;
+
+    border: 1px solid green;
+
+    color: green;
+
+    font-size: 13px;
+
+    margin: 0 0 10px;
+
+    padding: 10px !important;
+
+    -webkit-box-sizing: border-box;
+
+    -moz-box-sizing: border-box;
+
+    box-sizing: border-box;
+
+}
+
+
+
+.rewards p.error {
+
+    background: none repeat scroll 0 0 #FFDDDD;
+
+    border: 1px solid #DA0F00;
+
+    color: #DA0F00;
+
+    font-size: 13px;
+
+    margin: 0 0 10px;
+
+    padding: 10px !important;
+
+    width: auto !important;
+
+    -webkit-box-sizing: border-box;
+
+    -moz-box-sizing: border-box;
+
+    box-sizing: border-box;
+
+}
+
+
+
+.rewards .pagination {
+
+	margin: 0;
+
+}
+
+
+
+.rewards .block_hidden_only_for_screen {
+
+	display: none !important;
+
+}
+
+
+
+/***************/
+
+/* Sponsorship */
+
+/***************/
+
+
+
+#sms_form #phone {
+
+	display: inline;
+
+	width: 120px;
+
+}
+
+
+
+.checker {
+
+	padding-top: 0 !important;
+
+}
+
+
+
+.sponsorship_nok {
+
+	border-color: #D52525 !important;
+
+}
+
+
+
+.rewards div.sheets {
+
+	padding: 0 10px 30px 10px;
+
+	overflow: auto;
+
+	border: solid 1px #DDDDDD;
+
+}
+
+
+
+.rewards .idTabs {
+
+	margin-top: 10px !important;
+
+	margin-bottom: 0px;
+
+	width: 100%;
+
+	display: table;
+
+}
+
+
+
+.rewards .idTabs li {
+
+	padding-left: 0;
+
+	padding-right: 0;
+
+	text-align: center;
+
+	padding-right: 1px;
+
+	margin-right: 0;
+
+	margin-bottom: -1px;
+
+	vertical-align: middle;
+
+	-webkit-box-sizing: border-box;
+
+    -moz-box-sizing: border-box;
+
+    box-sizing: border-box;
+
+}
+
+
+
+@media (min-width: 768px) {
+
+	.rewards .col-sm-4 {
+
+		width: 33.33333%;
+
+	}
+
+
+
+	.rewards .col-sm-3 {
+
+		width: 25%;
+
+	}
+
+}
+
+
+
+.rewards .idTabs a {
+
+	width: 100%;
+
+	padding: 8px 0;
+
+	background-image: none;
+
+	background-color: #f6f6f6;
+
+	border: solid 1px #DDDDDD;
+
+	border-radius: 2px 2px 0 0;
+
+	font-size: 11px;
+
+	line-height: 16px;
+
+	color: #555454;
+
+	text-transform: uppercase;
+
+    display: block;
+
+	-webkit-box-sizing: border-box;
+
+    -moz-box-sizing: border-box;
+
+    box-sizing: border-box;
+
+}
+
+
+
+/* Comment these 2 blocks if you want to keep the standart style of your theme for the tabs */
+
+.rewards .idTabs .selected {
+
+	background-color: #FFFFFF;
+
+	background-image: none;
+
+	border-bottom: 1px solid #ffffff;
+
+	text-decoration: none;
+
+}
+
+/* end */
+
+
+
+.sponsorshipBlock div {
+
+	padding-top: 10px;
+
+	vertical-align: top !important;
+
+	font-size: 12px;
+
+}
+
+
+
+.sponsorshipBlock li img {
+
+	height: 20px !important;
+
+}
+
+
+
+.sponsorshipBlock a {
+
+	text-decoration: underline;
+
+}
+
+
+
+.sponsorshipBlock input[type=text],
+
+.sponsorshipBlock input[type=password],
+
+.sponsorshipBlock textarea,
+
+.sponsorshipBlock select {
+
+	border: 1px solid #BDC2C9;
+
+}
+
+
+
+.sponsorshipBlock input[type=text],
+
+.sponsorshipBlock input[type=password] {
+
+	height: 18px !important;
+
+	width: 90%;
+
+}
+
+
+
+ .sponsorshipBlock textarea {
+
+	width: 100%;
+
+	-webkit-box-sizing: border-box;
+
+    -moz-box-sizing: border-box;
+
+    box-sizing: border-box;
+
+	margin-bottom: 15px;
+
+}
+
+
+
+.sponsorshipBlock ul {
+
+	padding-left: 25px !important;
+
+}
+
+
+
+.sponsorshipBlock li {
+
+	padding-top: 10px;
+
+	list-style-type: disc;
+
+}
+
+
+
+.sponsorshipBlock div.submit {
+
+	padding-bottom: 10px;
+
+}
+
+
+
+.sponsorshipBlock form.std p.submit {
+
+	padding-left: 0px !important;
+
+}
+
+
+
+.sponsorshipBlock #sponsorship_text p {
+
+	padding: 0px !important;
+
+	margin: 0 !important;
+
+}
+
+
+
+#sponsorship_rules {
+
+	width: auto;
+
+	max-width: 550px;
+
+}
+
+
+
+/* sponsorship statistics */
+
+.sponsorshipBlock tr.total {
+
+	font-weight: bold;
+
+	background-color: #EEEEEE;
+
+}
+
+
+
+.sponsorshipBlock td.total {
+
+	font-weight: bold;
+
+	background-color: #EEEEEE;
+
+}
+
+
+
+.sponsorshipBlock div.title {
+
+	font-weight: bold;
+
+	margin-bottom: 3px;
+
+	text-transform: uppercase;
+
+}
+
+
+
+.sponsorshipBlock .left {
+
+	text-align: left;
+
+	float: none !important;
+
+}
+
+
+
+.sponsorshipBlock .center {
+
+	text-align: center;
+
+}
+
+
+
+.sponsorshipBlock .right {
+
+	text-align: right;
+
+	float: none !important;
+
+}
+
+
+
+/*********/
+
+/* Popup */
+
+/*********/
+
+.sponsorshipPopup {
+
+	width: auto;
+
+	max-width: 550px;
+
+	text-align: left;
+
+}
+
+
+
+.sponsorshipPopup #invite, .sponsorshipPopup #noinvite {
+
+	display: inline;
+	background-color: #bc9355 !important;
+	border:0 !important;
+
+}
+
+
+
+.rewards p.popup {
+
+	text-align: center;
+
+	padding: 10px 0 0 !important;
+
+}
+
+#submitSponsorFriends {
+	background-color: #bc9355 !important;
+	border:0 !important;
+}
+
+#revive{	
+	background-color: #bc9355 !important;
+	border:0 !important;
+}
+
+/************/
+
+/* Facebook */
+
+/************/
+
+.rewards_facebook_button {
+
+	margin-top: 10px;
+
+	text-align: right;
+
+	clear: both;
+
+	z-index: 1000;
+
+}
+
+nav .reward_facebook_block {
+
+	float: right;
+
+	clear: none;
+
+	margin-top: 8px;
+
+	padding-right: 15px;
+
+	width: auto;
+
+}
+
+
+
+#facebookblock .block_content {
+
+	padding-top: 3px;
+
+}
+
+.reward_facebook_block_button {
+
+	margin-top: 10px;
+
+	text-align: center;
+
+}
+
+#reward_facebook_cart {
+
+	padding-bottom: 10px;
+
+}
+
+#reward_facebook_cart p, #reward_facebook_cart .reward_facebook_cart_button {
+
+	display: inline;
+
+}
+
+#rewards_facebook_code {
+
+	font-weight: bold;
+
+}
+
+#rewards_facebook_confirm {
+
+	display: none;
+
+}
+
+
+
+/******************/
+
+/* authentication */
+
+/******************/
+
+.account_creation.aior_sponsor label {
+
+	display: block;
+
+}
+
+.account_creation #sponsorship {
+
+	display: inline-block;
+
+}
+
+
+
+/***********/
+
+/* product */
+
+/***********/
+
+#product #loyalty {
+
+	display: none;
+
+}
+
+#product #sponsorship_link a::before {
+
+    content: "\f0c0";
+
+}
+
+
+
+#product #sponsorship_link.sponsorship_link a::before {
+
+	content: none;
+
+}
+
+
+
+#product #sponsorship_link.sponsorship_link {
+
+	padding-left: 20px;
+
+    background: url("../img/group_link.png") no-repeat 0 0;
+
+}
+
+
+
+#product #aior_product_button {
+
+	display: none;
+
+}
+
+
+
+/* version 1.5 */
+
+#product #aior_add_to_cart {
+
+	font-weight: 700;
+
+	-moz-border-radius: 5px;
+
+	-webkit-border-radius: 5px;
+
+	border-radius: 5px;
+
+	background-color: transparent;
+
+	border-color: transparent;
+
+	margin: auto;
+
+	outline: 0;
+
+	cursor: pointer;
+
+ }
+
+
+
+/* version 1.6 */
+
+#product #aior_add_to_cart.version16:before {
+
+    content: "\f06b";
+
+    font: 400 15px/31px "FontAwesome";
+
+    color: #fff;
+
+    background: #929292;
+
+    width: 30px;
+
+    text-align: center;
+
+    display: inline-block;
+
+    height: 30px;
+
+    margin: 0 6px 0 0;
+
+    -moz-border-radius: 50px;
+
+    -webkit-border-radius: 50px;
+
+    border-radius: 50px;
+
+}
+
+
+
+#product #aior_product_button span {
+
+	display: none;
+
+}
+
+
+
+.aior_unvisible {
+
+	display: none !important;
+
+}
+
+
+
+/****************/
+
+/* product list */
+
+/****************/
+
+span#aior_add_to_cart_available_display, span#aior_add_to_cart_available_real {
+
+	display: none;
+
+}
+
+.button.aior_add_to_cart {
+
+	margin-top: 5px;
+
+	font-size: 10px;
+
+}
+
+.button.aior_add_to_cart.exclusive {
+
+	font-size: 13px;
+
+	margin: 0 6px 10px 0;
+
+}
+
+
+
+ul.grid .button.aior_add_to_cart.exclusive {
+
+	display: block;
+
+	width: 200px;
+
+	margin: 0 auto 10px;
+
+	text-align: center;
+
+}
+
+
+
+ul.list .button.aior_add_to_cart.exclusive {
+
+	float: left;
+
+}
+
+
+
+/********/
+
+/* cart */
+
+/********/
+
+#HOOK_SHOPPING_CART #reward_loyalty, #HOOK_SHOPPING_CART #reward_facebook_cart {
+
+	margin-bottom: 10px;
+
+}

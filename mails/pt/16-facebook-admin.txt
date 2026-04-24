@@ -1,0 +1,7 @@
+Um visitante acabou de clicar "{action}".
+Cliente : {customer}
+
+Um visitante acabou de clicar "{action}" em {shop_name}.
+Cliente : {customer}
+
+{shop_name}

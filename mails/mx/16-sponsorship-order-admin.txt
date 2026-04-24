@@ -1,0 +1,11 @@
+Hola,
+
+{sponsored_firstname} {sponsored_lastname} ({sponsored_email}) acaba de pasar un pedido.
+
+Cuando el pedido sea validado :
+{sponsors_txt}
+
+
+
+{shop_name}
+{shop_url}

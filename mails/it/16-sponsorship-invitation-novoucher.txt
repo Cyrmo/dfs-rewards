@@ -1,0 +1,14 @@
+Ciao {sponsored_firstname} {sponsored_lastname},
+
+Il tuo amico {firstname} {lastname} ti vuole sponsorizzare in {shop_url}.
+
+Il suo messaggio :
+{message}
+
+Clicca nel link seguente per aderire:
+{link}
+
+
+
+{shop_name}
+{shop_url}

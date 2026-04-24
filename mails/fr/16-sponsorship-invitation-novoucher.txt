@@ -1,0 +1,14 @@
+Bonjour {sponsored_firstname} {sponsored_lastname},
+
+Votre ami(e) {firstname} {lastname} vous a parrainé depuis le site {shop_url}.
+
+Son message :
+{message}
+
+Pour nous rejoindre, rien de plus simple, rendez-vous à l'adresse suivante :
+{link}
+
+
+
+{shop_name}
+{shop_url}

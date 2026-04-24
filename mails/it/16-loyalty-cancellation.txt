@@ -1,0 +1,9 @@
+Ciao{customer_firstname} {customer_lastname},
+
+Il tuo ordine {order} è stato cancellato.
+Come risultato, i {customer_reward} di ricompensa sono stati cancellati.
+
+
+
+{shop_name}
+{shop_url}

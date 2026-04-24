@@ -1,0 +1,9 @@
+Ciao {customer_firstname} {customer_lastname},
+
+Il tuo ordine {order} è stato modificato.
+Anche il risultato, di {old_customer_reward} della ricompensa è cambiato in {new_customer_reward}.
+
+
+
+{shop_name}
+{shop_url}

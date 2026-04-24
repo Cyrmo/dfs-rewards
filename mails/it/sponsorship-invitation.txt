@@ -1,0 +1,17 @@
+Ciao {sponsored_firstname} {sponsored_lastname},
+
+Il tuo amico {firstname} {lastname} vuole sponsorizzarti su {shop_url}.
+
+Aderendo alla sponsorizzazione puoi ottenere {nb_discount} di sconto in voucher.
+Dettagli : {discount}
+
+Il suo messaggio :
+{message}
+
+E' molto veloce e facile aderire. Clicca sul link sottostante:
+{link}
+
+
+
+{shop_name}
+{shop_url}

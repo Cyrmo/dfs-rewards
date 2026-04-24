@@ -1,0 +1,17 @@
+Bonjour {sponsored_firstname} {sponsored_lastname},
+
+Votre ami(e) {firstname} {lastname} vous a parrainé depuis le site {shop_url}.
+
+Devenez son(sa) filleul(e) afin de gagner {nb_discount} bon(s) d'achat.
+Description : {discount}
+
+Son message :
+{message}
+
+Pour nous rejoindre, rien de plus simple, rendez-vous à l'adresse suivante :
+{link}
+
+
+
+{shop_name}
+{shop_url}

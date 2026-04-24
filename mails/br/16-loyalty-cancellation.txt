@@ -1,0 +1,10 @@
+Olá {customer_firstname} {customer_lastname},
+
+Seu pedido foi cancelado
+
+Seu pedido {order} foi cancelado.
+Como resultado, a recompensa de fidelidade no valor de {customer_reward} também foi cancelada.
+
+
+{shop_name}
+{shop_url}

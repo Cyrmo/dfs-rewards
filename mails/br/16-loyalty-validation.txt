@@ -1,0 +1,8 @@
+Parabéns {customer_firstname} {customer_lastname} !
+
+Seu pedido foi validado
+
+Seu pedido {order} foi validado.
+A recompensa de fidelidade no vlaor de {customer_reward} está agora disponível em {link_rewards} sua conta de recompensas.
+
+{shop_name}

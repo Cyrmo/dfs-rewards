@@ -1,0 +1,6 @@
+Registro de cliente patrocinado
+{sponsored_firstname} {sponsored_lastname} ({sponsored_email}) acaba de se registrar.<
+Seu patrocinador é {sponsor_firstname} {sponsor_lastname} ({sponsor_email}), que recebe {sponsor_reward}.
+
+{shop_name}
+

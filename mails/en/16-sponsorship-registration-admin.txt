@@ -1,0 +1,9 @@
+Hello,
+
+{sponsored_firstname} {sponsored_lastname} has just registered on {shop_name}.
+His sponsor is {sponsor_firstname} {sponsor_lastname}, who gets {sponsor_reward}.
+
+
+
+{shop_name}
+{shop_url}

@@ -1,0 +1,8 @@
+Felicidades {sponsor_firstname} {sponsor_lastname},
+
+El pedido de su ahijad@ {sponsored_firstname} {sponsored_lastname} ha sido validado.
+Su premio de {sponsor_reward} está disponible en tu cuenta de fidelización. 
+
+
+{shop_name}
+{shop_url}

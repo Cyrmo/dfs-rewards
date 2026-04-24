@@ -1,0 +1,9 @@
+Ciao {sponsor_firstname} {sponsor_lastname},
+
+Un ordine indiretto di un tuo amico sponsorizzato è stato modificato 
+Di conseguenza, i {old_sponsor_reward} di ricompensa sono cambiati in {new_sponsor_reward}.
+
+Cordiali saluti,
+
+{shop_name}
+{shop_url}

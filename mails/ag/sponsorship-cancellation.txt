@@ -1,0 +1,9 @@
+Hola {sponsor_firstname} {sponsor_lastname},
+
+El pedido de su ahijad@ {sponsored_firstname} {sponsored_lastname} ha sido anulado.
+Por esa razón, su premio de {sponsor_reward} también ha sido anulado. 
+
+
+
+{shop_name}
+{shop_url}

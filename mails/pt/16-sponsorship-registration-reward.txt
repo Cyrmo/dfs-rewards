@@ -1,0 +1,9 @@
+Congratulations {sponsor_firstname} {sponsor_lastname} !
+
+Seu amigo se registrou
+
+Seu amigo patrocinado {sponsored_firstname} {sponsored_lastname} acabou de se registar em {shop_name}!
+Graças a esse patrocínio, você ganha {sponsor_reward}.
+
+{shop_name}
+

@@ -1,0 +1,9 @@
+Hi {sponsor_firstname} {sponsor_lastname},
+
+The order of your sponsored friend, {sponsored_firstname} {sponsored_lastname}, has been modified.
+As a result, your {old_sponsor_reward} reward has been changed to {new_sponsor_reward}.
+
+
+
+{shop_name}
+{shop_url}

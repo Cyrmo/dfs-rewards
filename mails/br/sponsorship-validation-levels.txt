@@ -1,0 +1,9 @@
+Congratulations {sponsor_firstname} {sponsor_lastname} !
+
+An order of your indirect sponsored friend has been validated.
+Your {sponsor_reward} reward is now available in your rewards account.
+
+
+
+{shop_name}
+{shop_url}

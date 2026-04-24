@@ -1,0 +1,9 @@
+Felicidades {sponsor_firstname} {sponsor_lastname}!
+
+Su ahijad@ {sponsored_firstname} {sponsored_lastname} ha hecho un pedido en {shop_name} !
+Cuando el pedido sea validado, {sponsor_reward} serán cargados en su cuenta de fidelización, como muestra de agradecimiento.
+
+
+
+{shop_name}
+{shop_url}

@@ -1,0 +1,9 @@
+Félicitations {customer_firstname} {customer_lastname} !
+
+Votre commande {order} a été validée.
+La récompense fidélité de {customer_reward} sera disponible dans votre compte récompenses à partir du {reward_unlock_date}.
+
+
+
+{shop_name}
+{shop_url}

@@ -1,0 +1,9 @@
+Hola {customer_firstname} {customer_lastname},
+
+Su pedido {order} ha sido anulado.
+Por esa razón, el premio de fidelidad de {customer_reward} también ha sido anulado.
+
+
+
+{shop_name}
+{shop_url}

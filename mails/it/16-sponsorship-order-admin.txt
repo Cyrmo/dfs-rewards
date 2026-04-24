@@ -1,0 +1,11 @@
+Ciao,
+
+{sponsored_firstname} {sponsored_lastname} ({sponsored_email}) ha fatto un ordine su {shop_name}.
+
+Quando l'ordine sarà confermato :
+{sponsors_txt}
+
+
+
+{shop_name}
+{shop_url}

@@ -1,0 +1,9 @@
+Bonjour {sponsor_firstname} {sponsor_lastname},
+
+La commande de votre filleul(e) {sponsored_firstname} {sponsored_lastname} a été modifiée.
+En conséquence, votre récompense valant initialement {old_sponsor_reward} est maintenant de {new_sponsor_reward}.
+
+
+
+{shop_name}
+{shop_url}

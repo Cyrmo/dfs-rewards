@@ -1,0 +1,8 @@
+Felicidades {sponsor_firstname} {sponsor_lastname},
+
+Uno de sus ahijad@s indirectos ha hecho un pedido en {shop_name} !
+Cuando su pedido sea validado, {sponsor_reward} seran cargados en su cuenta de fidelización, como agradecimiento.
+
+
+{shop_name}
+{shop_url}

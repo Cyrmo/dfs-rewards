@@ -1,0 +1,279 @@
+#SkypeButton_Call_Patanock13_1_paraElement {
+	margin: 0 !important;
+}
+
+#SkypeButton_Call_Patanock13_1_paraElement img {
+	margin: 0 0 0 10px !important;
+	vertical-align: bottom !important;
+}
+
+#facebook {
+	position: absolute;
+	right: 30px;
+	top: 73px;
+	width: 100px;
+}
+
+.nobootstrap {
+	min-width: 800px;
+}
+
+.center {
+	text-align: center;
+}
+
+.language_flags {
+	display: none;
+	background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #555555;
+    display: none;
+    float: left;
+    margin: 4px;
+    padding: 8px;
+    width: 90px;
+}
+
+.displayed_flag {
+	float: left;
+	margin-left: 4px;
+}
+
+.ui-multiselect-checkboxes li {
+	font-size: 11px;
+}
+
+.ui-multiselect-checkboxes label {
+	text-shadow: none;
+	text-align: left;
+	font-weight: normal;
+}
+
+.nobootstrap .margin-form {
+	font-size: 11px;
+}
+
+.tabs table {
+	margin: 0;
+	padding: 0;
+	border-collapse: collapse;
+	font-size: 11px;
+}
+
+.tabs table td.label {
+	width: 390px;
+}
+
+.tabs label {
+	padding-right: 0px;
+	font-size: 11px;
+	width: 420px;
+	text-align: left;
+	font-weight: normal;
+}
+
+.tabs label.t {
+	font-size: 11px;
+	padding-left: 0px;
+}
+
+.tabs span.virtualvalue {
+	display: inline-block;
+	font-size: 11px;
+	padding-left: 5px;
+	text-indent: 0;
+}
+
+.tabs label.indent {
+	width: 390px;
+	padding-left: 30px;
+}
+
+.tabs .margin-form {
+	float: left;
+	padding-left: 0px;
+}
+
+.tabs fieldset {
+	margin-bottom: 20px;
+}
+
+.registration_error {
+	border-color: red !important;
+}
+
+.level_information {
+	margin-top: 5px;
+}
+
+.level_information label.level {
+	width: 100%;
+	padding-bottom: 5px;
+}
+
+.optional {
+	overflow: auto;
+}
+
+.optional label {
+	text-indent: 30px;
+}
+
+td.indent {
+	text-indent: 30px;
+}
+
+.multiselect {
+	width: 130px;
+}
+
+table.reward_for_registration {
+	width: auto;
+	border-collapse: collapse;
+	margin: 0 auto;
+}
+
+table.reward_for_registration th, table.reward_for_registration td {
+	text-align: left;
+	padding: 4px 40px 0 0;
+}
+
+/* onglet statistiques */
+.statistics div.title {
+	border-bottom: 1px dotted #CCCCCC;
+    font-weight: bold;
+    margin-bottom: 5px;
+    padding-bottom: 2px;
+    text-transform: uppercase;
+    padding-top: 20px;
+}
+.statistics table {
+	width: 100%;
+	font-size: 11px;
+	border-collapse: collapse;
+}
+.statistics table tr.title {
+	background-color: #eff1f2;
+	height: 20px;
+	text-transform: uppercase;
+}
+.statistics table tr.details:hover td {
+	background-color: transparent !important;
+}
+.statistics table td {
+	border: 1px solid #ccc;
+	padding: 4px;
+	text-align: center;
+}
+.statistics table.general_sponsorship td {
+	width: 12%;
+}
+.statistics table.channels_sponsorship td {
+	width: 14%;
+}
+.statistics table td.left {
+	text-align: left;
+}
+.statistics table td.right {
+	text-align: right;
+}
+
+
+.tablesorter th.id {
+	width: 40px;
+}
+.tablesorter td.id {
+	text-align: center;
+}
+.tablesorter .action {
+	width: 20px;
+	text-align: center;
+}
+.tablesorter img.delete {
+	cursor: pointer;
+}
+.tablesorter td.nostrike input {
+	margin: 0 auto;
+}
+.tablesorter.customers .left {
+	width: 15%;
+}
+
+
+.rewards_template img {
+	cursor: pointer;
+	vertical-align: middle !important;
+}
+
+.rewards_template img.nocursor {
+	cursor: default;
+}
+
+.rewards_template label {
+	width: 170px;
+}
+
+.rewards_template input[type=button] {
+	margin-top: 0;
+}
+
+#rewards_template_customers_button {
+	cursor: pointer;
+	font-weight: bold;
+}
+
+#rewards_template_customers {
+	display: none;
+	padding-top: 10px;
+}
+
+/* CSS for autocomplete 1.5 */
+.ui-autocomplete, .ac_results {
+	width: 570px;
+	max-height: 160px;
+	overflow-y: auto;
+	overflow-x: hidden;
+	padding: 5px;
+	border-color: #DDDDDD;
+}
+.ac_results ul {
+	overflow: hidden !important;
+}
+.ui-autocomplete .ui-state-hover, .ac_over {
+	font-weight: normal;
+	border: none;
+	cursor: pointer;
+	background-color: #3399FF;
+}
+.ac_even, .ac_odd {
+	background-color: transparent;
+	color: #555555;
+}
+.ac_even:hover, .ac_odd:hover {
+	background-color: #3399FF;
+	color: #FFFFFF;
+}
+.ui-autocomplete span, .ac_results span {
+	display: inline-block;
+	margin-right: 10px;
+}
+.ui-autocomplete .ui-menu-item a, .ac_results li {
+	padding: 0px;
+}
+div.autocomplete_header {
+	border-bottom: dashed 1px #BBBBBB;
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+span.autocomplete_id_customer {
+	width: 30px;
+	text-align: right;
+}
+span.autocomplete_firstname {
+	width: 160px;
+}
+span.autocomplete_lastname {
+	width: 160px;
+}
+span.autocomplete_email {
+	width: 160px;
+}

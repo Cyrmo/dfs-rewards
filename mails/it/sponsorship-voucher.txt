@@ -1,0 +1,15 @@
+Congratulazioni {firstname} {lastname},
+
+Abbiamo il piacere di informarti che {nb_discount} di voucher sono disponibili a tuo nome riguardo alle tue sponsorizzazioni. 
+
+Qui trovi il codice del  : {voucher_num}
+Dettagli : {voucher_details}
+
+Devi semplicemente copiare e incollare il codice che dovrai inserire durante la procedura del pagamento nel tuo prossimo ordine. 
+
+Ti ringraziamo per aver fatto acquisti su {shop_name}.
+
+
+
+{shop_name}
+{shop_url}

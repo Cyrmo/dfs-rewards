@@ -1,0 +1,9 @@
+Olá {sponsor_firstname} {sponsor_lastname},
+
+O pedido de seu amigo patrocinado foi cancelado
+O pedido de seu amigo patrocinado {sponsored_firstname} {sponsored_lastname}foi cancelado.
+Como resultado, sua recompensa de {sponsor_reward} também foi cancelada.
+
+
+{shop_name}
+

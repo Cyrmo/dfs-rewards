@@ -1,0 +1,9 @@
+Bonjour {firstname} {lastname},
+
+Nous vous rappelons que vous disposez de {rewards} dans votre compte récompenses que vous pouvez convertir en bon de réduction pour vos prochains achats.
+
+Si vous ne souhaitez plus recevoir ce mail, vous pouvez désactiver l'option depuis cette page.
+
+
+{shop_name}
+{shop_url}

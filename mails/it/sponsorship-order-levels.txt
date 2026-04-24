@@ -1,0 +1,9 @@
+Congratulazioni {sponsor_firstname} {sponsor_lastname} !
+
+Uno dei tuoi amici indiretti sponsorizzati ha fatto un ordine su {shop_url} !
+Per ringraziarti, quando il suo ordine sarà confermato, riceverai {sponsor_reward} nel tuo account delle ricompense.
+
+
+
+{shop_name}
+{shop_url}

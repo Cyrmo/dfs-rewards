@@ -1,0 +1,9 @@
+Congratulations {sponsor_firstname} {sponsor_lastname} !
+
+Seu amigo fez um pedido
+Seu amigo {sponsored_firstname} {sponsored_lastname} fez um pedido em {shop_name}!
+
+Para agradecer, quando seu pedido for validado, você receberá {sponsor_reward}<a style="color:#337ff1;" href="{link_rewards}"> em sua conta de recompensas.
+
+{shop_name}
+

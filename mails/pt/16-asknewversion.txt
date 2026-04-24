@@ -1,0 +1,8 @@
+Nova versão do módulo All-in-one Rewards
+
+Eu gostaria de obter a nova versão do módulo.
+Versão do módulo : {module_version}
+Versão do Prestashop : {ps_version}
+Referência do pedido : {registration}
+
+{shop_name}

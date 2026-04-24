@@ -1,0 +1,11 @@
+Parabéns {firstname} {lastname}.
+
+Validação de Patrocínio
+Temos o prazer de informar que {nb_discount} voucher(s) estão disponíveis em seu nome em relação ao seu patrocínio.
+
+Aqui está o código do seu voucher: {voucher_num}
+Detalhes : {voucher_details}
+Basta copiar / colar este código durante o processo de pagamento do seu próximo pedido.
+
+{shop_name}
+

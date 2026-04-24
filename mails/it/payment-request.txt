@@ -1,0 +1,12 @@
+Ciao,
+
+{customer} hai appena ricevuto una  richiesta  pagamento di {value}.
+Dettagli :
+{text}
+
+Quando il pagamento sarà stato eseguito, si prega di visitare il profilo del cliente nel vostro back-end e contrassegnare la richiesta come pagato.
+
+
+
+{shop_name}
+{shop_url}

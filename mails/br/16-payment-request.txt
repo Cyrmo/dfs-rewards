@@ -1,0 +1,7 @@
+Solicitação de pagamento de recompensas
+
+{customer} acabou de enviar uma solicitação de pagamento no valor de {value}.
+Detalhes :{text}
+Uma vez que o pagamento tenha sido processado, visite o perfil do cliente no seu back-end e marque o pedido como pago.
+
+{shop_name}

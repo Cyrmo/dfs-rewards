@@ -1,0 +1,8 @@
+Ciao {firstname} {lastname},
+
+Ti ricordiamo che hai {rewards} nel tuo account delle ricompense che puoi trasformare in voucher per il tuo prossimo ordine.
+
+Cordiali saluti,
+
+{shop_name}
+{shop_url}

@@ -1,0 +1,9 @@
+Bonjour,
+
+Votre demande de paiement de vos récompenses pour un montant de {value} a été traitée.
+Retrouvez le détail de vos récompenses dans votre compte récompenses.
+
+
+
+{shop_name}
+{shop_url}

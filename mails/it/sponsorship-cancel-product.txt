@@ -1,0 +1,9 @@
+Cioa {sponsor_firstname} {sponsor_lastname},
+
+Un ordine di un tuo amico sponsorizzato, {sponsored_firstname} {sponsored_lastname}, è stato modificato.
+Di conseguenza, i tuoi {old_sponsor_reward} di ricompensa sono cambiati in {new_sponsor_reward}.
+
+I nostri migliori saluti,
+
+{shop_name}
+{shop_url}

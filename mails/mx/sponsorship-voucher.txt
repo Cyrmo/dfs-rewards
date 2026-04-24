@@ -1,0 +1,13 @@
+Hola {firstname} {lastname},
+
+Le informamos de que acaba de conseguir {nb_discount} vale(s) de descuento, relativo a su apadrinamiento.
+
+Este es el código de su vale : {voucher_num}
+Descripción : {voucher_details}
+
+Copie este código y pongalo en la cesta de la compra de su próximo pedido, antes de hacer el pago.
+
+
+
+{shop_name}
+{shop_url}

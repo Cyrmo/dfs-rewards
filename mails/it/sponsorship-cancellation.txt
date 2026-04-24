@@ -1,0 +1,9 @@
+Ciao {sponsor_firstname} {sponsor_lastname},
+
+Un ordine di un tuo amico sponsorizzato, {sponsored_firstname} {sponsored_lastname}, è stato cancellato.
+Di conseguenza, i tuoi {sponsor_reward} di ricompensa sono stati cacellati.
+
+I nostri migliori saluti,
+
+{shop_name}
+{shop_url}

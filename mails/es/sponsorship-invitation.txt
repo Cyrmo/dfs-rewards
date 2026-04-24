@@ -1,0 +1,16 @@
+Hola {sponsored_firstname} {sponsored_lastname},
+
+Su amigo(a) {firstname} {lastname} le ha apadrinado en la web {shop_name}.
+Conviertase en su ahijado(a) para conseguir {nb_discount} vale(s) de compra.
+Descripción : {discount}
+
+Su mensaje :
+{message}
+
+Para acceder, nada más sencillo. Dirijase a la dirección siguiente :
+{link}
+
+
+
+{shop_name}
+{shop_url}

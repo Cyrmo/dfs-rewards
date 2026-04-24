@@ -1,0 +1,28 @@
+/* NOTICE OF LICENSE
+ *
+ * This module was created by Yann BONNAILLIE and is protected by the laws of Copyright.
+ * This use license is granted for only one website.
+ * To use this module on several websites, you must purchase as many licenses as websites on which you want to use it.
+ * Use, copy, modification or distribution of this module without written license agreement from Yann BONNAILLIE is strictly forbidden.
+ * In order to obtain a license, please contact me: contact@prestaplugins.com
+ * Any infringement of these provisions as well as general copyrights will be prosecuted.
+ * ...........................................................................
+ *
+ * INFORMATION SUR LA LICENCE D'UTILISATION
+ *
+ * Ce module a été créé par Yann BONNAILLIE et est protégé par les lois relatives aux droits d'auteur.
+ * Cette licence d'utilisation est accordée pour un seul site web.
+ * Pour utiliser ce module sur plusieurs sites web, vous devez vous acquitter de l'achat d'autant de licences que de sites web sur lesquels vous souhaitez l'utiliser.
+ * Toute utilisation, reproduction, modification ou distribution du présent module sans contrat de licence écrit de la part de Yann BONNAILLIE est expressement interdite.
+ * Pour obtenir une licence, veuillez me contacter à l'adresse: contact@prestaplugins.com
+ * Toute infraction constatée à ces dispositions ainsi qu'aux droits d'auteur en général fera l'objet de poursuites.
+ * ...........................................................................
+ *
+ * @module     All-in-one Rewards
+ * @author     Yann BONNAILLIE
+ * @copyright  Copyright (c) 2012-2019 Yann BONNAILLIE (http://www.prestaplugins.com)
+ * @license    Commercial license
+ * Support by mail  : contact@prestaplugins.com
+ * Support on forum : Patanock
+ * Support on Skype : Patanock13
+ */

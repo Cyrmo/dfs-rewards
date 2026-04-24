@@ -1,0 +1,8 @@
+Congratulazioni {sponsor_firstname} {sponsor_lastname} !
+
+Un tuo amico sponsorizzato  {sponsored_firstname} {sponsored_lastname} si è appena registrato su  {shop_url} !
+
+
+
+{shop_name}
+{shop_url}

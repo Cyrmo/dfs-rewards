@@ -1,0 +1,9 @@
+Hola,
+
+{sponsored_firstname} {sponsored_lastname} ({sponsored_email}) acaba de registrarse en {shop_name}.
+Su padrino es {sponsor_firstname} {sponsor_lastname} ({sponsor_email}) que gana {sponsor_reward}.
+
+
+
+{shop_name}
+{shop_url}

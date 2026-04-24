@@ -1,0 +1,9 @@
+Ciao,
+
+La tua richiesta di pagamento di {value} è stata conclusa.
+Per consultare i dettagli delle ricompense vai nel tuo account delle ricompense.
+
+
+
+{shop_name}
+{shop_url}

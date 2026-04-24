@@ -1,0 +1,13 @@
+Hola {sponsored_firstname} {sponsored_lastname},
+
+Su amigo(a) {firstname} {lastname} le ha apadrinado en la web {shop_name}!.
+
+Para acceder al sitio, nada más fácil. Haga clic aquí :
+{link}
+
+Su mensaje :
+{message}
+
+
+{shop_name}
+{shop_url}

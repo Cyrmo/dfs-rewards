@@ -1,0 +1,9 @@
+Bonjour,
+
+Un visiteur vient de cliquer "{action}" sur {shop_name}.
+Client : {customer}
+
+
+
+{shop_name}
+{shop_url}

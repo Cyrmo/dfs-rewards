@@ -1,0 +1,12 @@
+Hello,
+
+{customer} just sent a payment request worth {value}.
+Details :
+{text}
+
+Once the payment has been processed, please visit the customer profil in your back-end and mark the request as paid.
+
+
+
+{shop_name}
+{shop_url}

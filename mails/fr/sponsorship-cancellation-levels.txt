@@ -1,0 +1,9 @@
+Bonjour {sponsor_firstname} {sponsor_lastname},
+
+La commande d'un de vos filleuls indirects a été annulée.
+En conséquence, votre récompense de {sponsor_reward} est également annulée.
+
+
+
+{shop_name}
+{shop_url}

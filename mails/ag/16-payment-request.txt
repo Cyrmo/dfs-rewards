@@ -1,0 +1,12 @@
+Hola,
+
+{customer} acaba de enviar una solicitud de pago de recompensas {value}.
+Detalles :
+{text}
+
+Una vez que el pago haya  sido procesado, por favor visite el perfil del cliente en su back-office y marcar la solicitud como pagada
+
+
+
+{shop_name}
+{shop_url}
